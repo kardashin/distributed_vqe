@@ -1,1 +1,1 @@
-# distributed_vqe
+# Distributed VQE
